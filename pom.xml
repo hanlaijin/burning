@@ -15,7 +15,7 @@
     <modules>
         <module>rootpom</module>
         <module>common</module>
-        <module>service</module>
+        <module>dao</module>
         <module>api</module>
         <module>task</module>
         <module>wechat</module>
