@@ -30,4 +30,4 @@ build/
 ### VS Code ###
 .vscode/
 
-./src/main/java/com/hlj/burning/wechat/config/
+src/main/java/com/hlj/burning/wechat/config/
